@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 This is file2
 edit file2 by adding a new line.
+The second new line is here
+
